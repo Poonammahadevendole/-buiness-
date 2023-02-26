@@ -8,7 +8,7 @@ function Footer() {
       <div id="footersection" className="Footer_container">
         <div className="footer_wrapper">
           <div className="footer_intro">
-            <h2>wixfit</h2>
+            <h2>wixfit Grow Your Business </h2>
             <p>
               The Wix website builder offers a complete solution from
               enterprise-grade infrastructure and business features to advanced
